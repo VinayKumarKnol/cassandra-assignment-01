@@ -19,5 +19,4 @@ object Application extends App {
   log.info(s"Data fetched by city          : \n ${queriesResult.fetchDataByCity}\n")
   log.info(s"Data post deletion            : \n ${queriesResult.deleteDataByCity}\n")
 
-
 }
